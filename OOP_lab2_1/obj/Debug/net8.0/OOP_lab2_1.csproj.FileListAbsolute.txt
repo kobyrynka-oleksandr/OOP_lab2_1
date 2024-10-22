@@ -1,0 +1,14 @@
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\bin\Debug\net8.0\OOP_lab2_1.exe
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\bin\Debug\net8.0\OOP_lab2_1.deps.json
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\bin\Debug\net8.0\OOP_lab2_1.runtimeconfig.json
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\bin\Debug\net8.0\OOP_lab2_1.dll
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\bin\Debug\net8.0\OOP_lab2_1.pdb
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.AssemblyInfoInputs.cache
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.AssemblyInfo.cs
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.csproj.CoreCompileInputs.cache
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.dll
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\refint\OOP_lab2_1.dll
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.pdb
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\OOP_lab2_1.genruntimeconfig.cache
+C:\C# Projects\OOP_lab2_1\OOP_lab2_1\obj\Debug\net8.0\ref\OOP_lab2_1.dll

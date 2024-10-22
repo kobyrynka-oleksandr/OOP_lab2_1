@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Projects\\OOP_lab2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B5E1F7-02C4-467F-88AA-8CB3DFC6A95B}|TestProject1\\TestProject1.csproj|c:\\c# projects\\oop_lab2_1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B5E1F7-02C4-467F-88AA-8CB3DFC6A95B}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917DB63C-FCC8-48B6-8173-366FEDD8C76F}|OOP_lab2_1\\OOP_lab2_1.csproj|c:\\c# projects\\oop_lab2_1\\oop_lab2_1\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917DB63C-FCC8-48B6-8173-366FEDD8C76F}|OOP_lab2_1\\OOP_lab2_1.csproj|solutionrelative:oop_lab2_1\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917DB63C-FCC8-48B6-8173-366FEDD8C76F}|OOP_lab2_1\\OOP_lab2_1.csproj|c:\\c# projects\\oop_lab2_1\\oop_lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917DB63C-FCC8-48B6-8173-366FEDD8C76F}|OOP_lab2_1\\OOP_lab2_1.csproj|solutionrelative:oop_lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917DB63C-FCC8-48B6-8173-366FEDD8C76F}|OOP_lab2_1\\OOP_lab2_1.csproj|c:\\c# projects\\oop_lab2_1\\oop_lab2_1\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917DB63C-FCC8-48B6-8173-366FEDD8C76F}|OOP_lab2_1\\OOP_lab2_1.csproj|solutionrelative:oop_lab2_1\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixData.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab2_1\\OOP_lab2_1\\MatrixData.cs",
+              "RelativeDocumentMoniker": "OOP_lab2_1\\MatrixData.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab2_1\\OOP_lab2_1\\MatrixData.cs",
+              "RelativeToolTip": "OOP_lab2_1\\MatrixData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:50:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixOperations.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab2_1\\OOP_lab2_1\\MatrixOperations.cs",
+              "RelativeDocumentMoniker": "OOP_lab2_1\\MatrixOperations.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab2_1\\OOP_lab2_1\\MatrixOperations.cs",
+              "RelativeToolTip": "OOP_lab2_1\\MatrixOperations.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:28:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab2_1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab2_1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:21:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab2_1\\OOP_lab2_1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_lab2_1\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab2_1\\OOP_lab2_1\\Program.cs",
+              "RelativeToolTip": "OOP_lab2_1\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:45:16.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
